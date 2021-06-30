@@ -10,7 +10,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPServerSide_Single_Thread
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServerSide_Single_Threaded", "TCPServerSide_Single_Threaded\TCPServerSide_Single_Threaded.csproj", "{11E206B2-095F-450B-8895-96BDBFC83710}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClientSide_Single_Threaded", "TCPClientSide_Single_Threaded\TCPClientSide_Single_Threaded.csproj", "{F52203E8-B4DC-47C7-889F-235FB921A441}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClientSide_Single_Threaded_Sync", "TCPClientSide_Single_Threaded_Sync\TCPClientSide_Single_Threaded_Sync.csproj", "{F52203E8-B4DC-47C7-889F-235FB921A441}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPServerSide_Multi_Threaded", "UDPServerSide_Multi_Threaded\UDPServerSide_Multi_Threaded.csproj", "{134E2493-EDBB-4CA9-8326-BDA181F4BB90}"
 EndProject
@@ -19,6 +19,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPClientSide_Multi_Threaded", "UDPClientSide_Multi_Threaded\UDPClientSide_Multi_Threaded.csproj", "{BF852069-7159-485B-8889-91B21445B67C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClientSide_Multi_Threaded", "TCPClientSide_Multi_Threaded\TCPClientSide_Multi_Threaded.csproj", "{E1D1F078-D03D-4E57-9787-4D70FB87D52E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClientSide_Single_Threaded_Async", "TCPClientSide_Single_Threaded_Async\TCPClientSide_Single_Threaded_Async.csproj", "{C4D3B0DA-FE66-413E-AD85-0570EA14FAD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -34,6 +36,7 @@ Global
 		{B0A776A9-AB5A-49CA-8A1A-F3F0CF132465} = {D9BF6BF5-63DC-4642-B7D3-15C7FC3CA701}
 		{BF852069-7159-485B-8889-91B21445B67C} = {891EF8EB-F148-4FC3-952A-788A61902492}
 		{E1D1F078-D03D-4E57-9787-4D70FB87D52E} = {891EF8EB-F148-4FC3-952A-788A61902492}
+		{C4D3B0DA-FE66-413E-AD85-0570EA14FAD8} = {891EF8EB-F148-4FC3-952A-788A61902492}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{D8A0F2D4-9D50-4C6E-9E10-19E7AE7201F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -68,5 +71,9 @@ Global
 		{E1D1F078-D03D-4E57-9787-4D70FB87D52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1D1F078-D03D-4E57-9787-4D70FB87D52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1D1F078-D03D-4E57-9787-4D70FB87D52E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4D3B0DA-FE66-413E-AD85-0570EA14FAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D3B0DA-FE66-413E-AD85-0570EA14FAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D3B0DA-FE66-413E-AD85-0570EA14FAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D3B0DA-FE66-413E-AD85-0570EA14FAD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

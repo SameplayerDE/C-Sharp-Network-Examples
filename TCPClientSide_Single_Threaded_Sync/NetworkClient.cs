@@ -1,6 +1,6 @@
 ﻿using System.Net.Sockets;
 
-namespace TCPClientSide
+namespace TCPClientSide_Single_Threaded_Sync
 {
     public class NetworkClient
     {

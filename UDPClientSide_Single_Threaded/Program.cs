@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UDPClientSide
+namespace UDPClientSide_Single_Threaded
 {
     class Program
     {

@@ -1,10 +1,10 @@
 ﻿using System.Net.Sockets;
 
-namespace UDPClientSide_Single_Threaded
+namespace TCPClientSide_Single_Threaded_Async
 {
     public class NetworkClient
     {
-        public UdpClient UdpClient;
+        public TcpClient TcpClient;
         public readonly string ServerHostname;
         public readonly int ServerPort;
         
@@ -14,14 +14,15 @@ namespace UDPClientSide_Single_Threaded
             ServerHostname = hostname;
             ServerPort = port;
             // ReSharper disable once HeapView.ObjectAllocation.Evident
-            UdpClient = new UdpClient(ServerHostname, ServerPort);
+            TcpClient = new TcpClient(ServerHostname, ServerPort);
 
             // ReSharper disable once HeapView.ObjectAllocation.Evident
             byte[] bytes = {
                 0x00
             };
 
-            UdpClient.Send(bytes, bytes.Length);
+            TcpClient.GetStream().Write(bytes); //writes data to stream
+            TcpClient.GetStream().Flush(); //sends data
 
         }
     }
