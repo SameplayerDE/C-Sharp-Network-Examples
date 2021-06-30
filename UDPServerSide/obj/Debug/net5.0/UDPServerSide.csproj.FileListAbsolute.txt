@@ -1,0 +1,16 @@
+C:\Users\asame\RiderProjects\NetworkStuff\UDPServerSide\bin\Debug\net5.0\UDPServerSide.exe
+C:\Users\asame\RiderProjects\NetworkStuff\UDPServerSide\bin\Debug\net5.0\UDPServerSide.deps.json
+C:\Users\asame\RiderProjects\NetworkStuff\UDPServerSide\bin\Debug\net5.0\UDPServerSide.runtimeconfig.json
+C:\Users\asame\RiderProjects\NetworkStuff\UDPServerSide\bin\Debug\net5.0\UDPServerSide.runtimeconfig.dev.json
+C:\Users\asame\RiderProjects\NetworkStuff\UDPServerSide\bin\Debug\net5.0\UDPServerSide.dll
+C:\Users\asame\RiderProjects\NetworkStuff\UDPServerSide\bin\Debug\net5.0\ref\UDPServerSide.dll
+C:\Users\asame\RiderProjects\NetworkStuff\UDPServerSide\bin\Debug\net5.0\UDPServerSide.pdb
+C:\Users\asame\RiderProjects\NetworkStuff\UDPServerSide\obj\Debug\net5.0\UDPServerSide.csproj.AssemblyReference.cache
+C:\Users\asame\RiderProjects\NetworkStuff\UDPServerSide\obj\Debug\net5.0\UDPServerSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asame\RiderProjects\NetworkStuff\UDPServerSide\obj\Debug\net5.0\UDPServerSide.AssemblyInfoInputs.cache
+C:\Users\asame\RiderProjects\NetworkStuff\UDPServerSide\obj\Debug\net5.0\UDPServerSide.AssemblyInfo.cs
+C:\Users\asame\RiderProjects\NetworkStuff\UDPServerSide\obj\Debug\net5.0\UDPServerSide.csproj.CoreCompileInputs.cache
+C:\Users\asame\RiderProjects\NetworkStuff\UDPServerSide\obj\Debug\net5.0\UDPServerSide.dll
+C:\Users\asame\RiderProjects\NetworkStuff\UDPServerSide\obj\Debug\net5.0\ref\UDPServerSide.dll
+C:\Users\asame\RiderProjects\NetworkStuff\UDPServerSide\obj\Debug\net5.0\UDPServerSide.pdb
+C:\Users\asame\RiderProjects\NetworkStuff\UDPServerSide\obj\Debug\net5.0\UDPServerSide.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\asame\RiderProjects\NetworkStuff\TCPClientSide\bin\Debug\net5.0\TCPClientSide.exe
+C:\Users\asame\RiderProjects\NetworkStuff\TCPClientSide\bin\Debug\net5.0\TCPClientSide.deps.json
+C:\Users\asame\RiderProjects\NetworkStuff\TCPClientSide\bin\Debug\net5.0\TCPClientSide.runtimeconfig.json
+C:\Users\asame\RiderProjects\NetworkStuff\TCPClientSide\bin\Debug\net5.0\TCPClientSide.runtimeconfig.dev.json
+C:\Users\asame\RiderProjects\NetworkStuff\TCPClientSide\bin\Debug\net5.0\TCPClientSide.dll
+C:\Users\asame\RiderProjects\NetworkStuff\TCPClientSide\bin\Debug\net5.0\ref\TCPClientSide.dll
+C:\Users\asame\RiderProjects\NetworkStuff\TCPClientSide\bin\Debug\net5.0\TCPClientSide.pdb
+C:\Users\asame\RiderProjects\NetworkStuff\TCPClientSide\obj\Debug\net5.0\TCPClientSide.csproj.AssemblyReference.cache
+C:\Users\asame\RiderProjects\NetworkStuff\TCPClientSide\obj\Debug\net5.0\TCPClientSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asame\RiderProjects\NetworkStuff\TCPClientSide\obj\Debug\net5.0\TCPClientSide.AssemblyInfoInputs.cache
+C:\Users\asame\RiderProjects\NetworkStuff\TCPClientSide\obj\Debug\net5.0\TCPClientSide.AssemblyInfo.cs
+C:\Users\asame\RiderProjects\NetworkStuff\TCPClientSide\obj\Debug\net5.0\TCPClientSide.csproj.CoreCompileInputs.cache
+C:\Users\asame\RiderProjects\NetworkStuff\TCPClientSide\obj\Debug\net5.0\TCPClientSide.dll
+C:\Users\asame\RiderProjects\NetworkStuff\TCPClientSide\obj\Debug\net5.0\ref\TCPClientSide.dll
+C:\Users\asame\RiderProjects\NetworkStuff\TCPClientSide\obj\Debug\net5.0\TCPClientSide.pdb
+C:\Users\asame\RiderProjects\NetworkStuff\TCPClientSide\obj\Debug\net5.0\TCPClientSide.genruntimeconfig.cache

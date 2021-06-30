@@ -1,0 +1,16 @@
+C:\Users\asame\RiderProjects\NetworkStuff\TCPServerSide\bin\Debug\net5.0\TCPServerSide.exe
+C:\Users\asame\RiderProjects\NetworkStuff\TCPServerSide\bin\Debug\net5.0\TCPServerSide.deps.json
+C:\Users\asame\RiderProjects\NetworkStuff\TCPServerSide\bin\Debug\net5.0\TCPServerSide.runtimeconfig.json
+C:\Users\asame\RiderProjects\NetworkStuff\TCPServerSide\bin\Debug\net5.0\TCPServerSide.runtimeconfig.dev.json
+C:\Users\asame\RiderProjects\NetworkStuff\TCPServerSide\bin\Debug\net5.0\TCPServerSide.dll
+C:\Users\asame\RiderProjects\NetworkStuff\TCPServerSide\bin\Debug\net5.0\ref\TCPServerSide.dll
+C:\Users\asame\RiderProjects\NetworkStuff\TCPServerSide\bin\Debug\net5.0\TCPServerSide.pdb
+C:\Users\asame\RiderProjects\NetworkStuff\TCPServerSide\obj\Debug\net5.0\TCPServerSide.csproj.AssemblyReference.cache
+C:\Users\asame\RiderProjects\NetworkStuff\TCPServerSide\obj\Debug\net5.0\TCPServerSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asame\RiderProjects\NetworkStuff\TCPServerSide\obj\Debug\net5.0\TCPServerSide.AssemblyInfoInputs.cache
+C:\Users\asame\RiderProjects\NetworkStuff\TCPServerSide\obj\Debug\net5.0\TCPServerSide.AssemblyInfo.cs
+C:\Users\asame\RiderProjects\NetworkStuff\TCPServerSide\obj\Debug\net5.0\TCPServerSide.csproj.CoreCompileInputs.cache
+C:\Users\asame\RiderProjects\NetworkStuff\TCPServerSide\obj\Debug\net5.0\TCPServerSide.dll
+C:\Users\asame\RiderProjects\NetworkStuff\TCPServerSide\obj\Debug\net5.0\ref\TCPServerSide.dll
+C:\Users\asame\RiderProjects\NetworkStuff\TCPServerSide\obj\Debug\net5.0\TCPServerSide.pdb
+C:\Users\asame\RiderProjects\NetworkStuff\TCPServerSide\obj\Debug\net5.0\TCPServerSide.genruntimeconfig.cache

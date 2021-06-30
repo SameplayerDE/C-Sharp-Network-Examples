@@ -1,0 +1,16 @@
+C:\Users\asame\RiderProjects\NetworkStuff\UDPClientSide\bin\Debug\net5.0\UDPClientSide.exe
+C:\Users\asame\RiderProjects\NetworkStuff\UDPClientSide\bin\Debug\net5.0\UDPClientSide.deps.json
+C:\Users\asame\RiderProjects\NetworkStuff\UDPClientSide\bin\Debug\net5.0\UDPClientSide.runtimeconfig.json
+C:\Users\asame\RiderProjects\NetworkStuff\UDPClientSide\bin\Debug\net5.0\UDPClientSide.runtimeconfig.dev.json
+C:\Users\asame\RiderProjects\NetworkStuff\UDPClientSide\bin\Debug\net5.0\UDPClientSide.dll
+C:\Users\asame\RiderProjects\NetworkStuff\UDPClientSide\bin\Debug\net5.0\ref\UDPClientSide.dll
+C:\Users\asame\RiderProjects\NetworkStuff\UDPClientSide\bin\Debug\net5.0\UDPClientSide.pdb
+C:\Users\asame\RiderProjects\NetworkStuff\UDPClientSide\obj\Debug\net5.0\UDPClientSide.csproj.AssemblyReference.cache
+C:\Users\asame\RiderProjects\NetworkStuff\UDPClientSide\obj\Debug\net5.0\UDPClientSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asame\RiderProjects\NetworkStuff\UDPClientSide\obj\Debug\net5.0\UDPClientSide.AssemblyInfoInputs.cache
+C:\Users\asame\RiderProjects\NetworkStuff\UDPClientSide\obj\Debug\net5.0\UDPClientSide.AssemblyInfo.cs
+C:\Users\asame\RiderProjects\NetworkStuff\UDPClientSide\obj\Debug\net5.0\UDPClientSide.csproj.CoreCompileInputs.cache
+C:\Users\asame\RiderProjects\NetworkStuff\UDPClientSide\obj\Debug\net5.0\UDPClientSide.dll
+C:\Users\asame\RiderProjects\NetworkStuff\UDPClientSide\obj\Debug\net5.0\ref\UDPClientSide.dll
+C:\Users\asame\RiderProjects\NetworkStuff\UDPClientSide\obj\Debug\net5.0\UDPClientSide.pdb
+C:\Users\asame\RiderProjects\NetworkStuff\UDPClientSide\obj\Debug\net5.0\UDPClientSide.genruntimeconfig.cache
