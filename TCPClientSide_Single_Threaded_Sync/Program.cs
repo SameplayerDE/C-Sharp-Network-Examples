@@ -1,4 +1,4 @@
-﻿namespace TCPClientSide
+﻿namespace TCPClientSide_Single_Threaded_Sync
 {
     class Program
     {
